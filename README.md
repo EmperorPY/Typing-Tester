@@ -1,4 +1,4 @@
-# **Typing tester
+# **Typing Tester**
 
 This is a Python project I made while learning Python.
 
