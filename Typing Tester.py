@@ -36,7 +36,11 @@ sample_texts = [
     
     "There a many programming languages in the world! Many have different uses and functions. Programming is very diverse!",
     
-    "Oh no! A cat ran over my keyboard! cat fat rat mat pat sat chat. Sorry for the inconvenience!"
+    "Oh no! A cat ran over my keyboard! cat fat rat mat pat sat chat. Sorry for the inconvenience!",
+
+    "Stop playing games in class, youre failing! Still typing? Ok type this pneumonoultramicroscopicsilicovolcanoconiosis. Its a lung disease!",
+
+    "My favourite language is python, actually java, no...  c ++. Swift? Go? Nah, i think i like scratch the best." 
 ]
 
 
